@@ -1,9 +1,18 @@
+:root {
+  --plain: #f4fffdff;
+  --secondary: #011936ff;
+  --primary: #f9dc5cff;
+  --bright: #ed254eff;
+
+}
 html,
 body {
   padding: 0;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  background-color: var(--plain)!important;
+  overflow-x: hidden;
 }
 
 a {
@@ -13,4 +22,12 @@ a {
 
 * {
   box-sizing: border-box;
+}
+
+h1, h2{
+	color: var(--secondary)!important;
+}
+
+main{
+  min-height: 100vh;
 }

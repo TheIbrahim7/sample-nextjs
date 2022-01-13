@@ -1,0 +1,14 @@
+.slideimage{
+	max-height: 20px !important;
+}
+
+#useless{
+	background-color: rgba(0, 0, 0, .5);
+	padding: 10px 0;
+}
+
+#useless img{
+	width: auto!important;
+	height: 80vh!important;
+	margin: 0 auto;
+}

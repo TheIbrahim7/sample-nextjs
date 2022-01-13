@@ -1,0 +1,17 @@
+1. Travel Apps
+2. On demand App & Web (delivery, etc)
+3. Streaming App
+4. Photo Portfolio Web
+5. Political Figure Portfolio Web
+6. Blog Web
+7. Agency & Business Web (Consultant, Law Firm, Fitness, Interior Design, )
+8. Online Resume Web
+9. Commodity Management web|Desktop (price finder, quatity, records, Monitoring, )
+10. Utility Provider Web (Plumber, Barbers, Guards, )
+
+
+-----------------------------
+* Job Portals
+* Tracking & Analytics App
+* Ecommerce
+* Dating

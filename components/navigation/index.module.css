@@ -1,0 +1,15 @@
+#navigation{
+	background-color: var(--secondary)!important;
+}
+
+#navigation a{
+	color: var(--plain)!important;
+}
+
+#navigation img{
+	margin: 2px 10px;
+}
+
+#polarized{
+	color: var(--primary)!important;
+}

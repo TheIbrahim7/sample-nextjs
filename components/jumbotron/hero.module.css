@@ -1,0 +1,30 @@
+.buttons{
+	
+}
+
+#main-button{
+	background-color: var(--secondary);	
+	color: var(--plain);
+	border-color: var(--secondary);
+}
+
+#sub-button:hover{
+	background-color: var(--primary);
+	color: var(--secondary);
+	border-color: var(--primary);
+}
+
+#nboard{
+	background-color: var(--primary);
+	color: var(--secondary);
+	max-height: 180px;
+}
+
+#nboard a{
+	text-decoration: none;
+	color: var(--bright);
+}
+
+#nboard a:hover{
+	color: var(--plain);
+}

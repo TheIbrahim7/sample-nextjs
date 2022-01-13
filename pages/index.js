@@ -13,8 +13,8 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>IO Web Prototypes</title>
-        <meta name="description" content="Welcome to IO Web Prototypes" />
+        <title>Sample NeXt </title>
+        <meta name="description" content="Welcome to neXt Sampling Prototypes" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 

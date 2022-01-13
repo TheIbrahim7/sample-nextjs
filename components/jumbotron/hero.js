@@ -1,4 +1,5 @@
 import styles from "./hero.module.css";
+import Link from "next/link";
 
 export default function Hero(){
 
@@ -10,7 +11,9 @@ export default function Hero(){
 		    <div className="row flex-lg-row-reverse flex-sm-row-reverse py-3">{/*g-2 is part of the class and it controls the margin but i want to control that myself*/}
 		      <div className="col-12 col-sm-4 col-lg-4 py-2 my-2" id={styles.nboard}>
 		        <p>Sample Next JS is a global sample of next JS APP in production.</p>
-		        <a href="/">Learn More</a>
+		        <Link href="/more/">
+		        	<a>Learn More</a>
+		        </Link>
 		      </div>
 		      <div className="col-lg-8 col-sm-8">
 		        <h1 className="display-5 fw-bold lh-1 mb-3">Introducing Sample Next JS Protoypes</h1>
